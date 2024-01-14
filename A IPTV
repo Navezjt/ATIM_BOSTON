@@ -5,7 +5,7 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/HLS/
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://positioningmag.com/wp-content/uploads/importedmedia/blogmedia-59098.jpg",ช่อง 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn6.goprimetime.info/feed/202306140918/ch5hd/index.m3u8
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0007/DASH/V0007.mpd?
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://www.prachachat.net/wp-content/uploads/2021/01/ch7hd-default.jpg",ช่อง 7
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0018/HLS/V0018-avc1_5000000=7-mp4a_64000_tha=2.m3u8
@@ -15,7 +15,7 @@ https://live-cdn-hwc.bugaboo.tv/live_line1/alive_1080p.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://f.ptcdn.info/428/057/000/p88xfxv2eU2OHPlO7dF-o.png",ช่อง 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn6.goprimetime.info/feed/202306140918/chmcothd/index.m3u8
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/DASH/V0008.mpd?
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://s.isanook.com/ns/0/ud/192/963123/nbt.jpg",ช่อง NBT
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0001/HLS/V0001-avc1_5000000=3-mp4a_96000_tha=7.m3u8
@@ -24,8 +24,7 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0001/HLS/
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/14/72c22620-c5aa-11ea-a8d3-2b56c8ce453d_original.png",ช่อง ALTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn6.goprimetime.info/feed/202306140918/ALTV/index.m3u8
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/02ef58a7-a848-485c-abfa-dd3d7a74a8b2.png",ช่อง AMARIN TV
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0017/HLS/V0017-avc1_5000000=14-mp4a_64000_tha=9.m3u8
@@ -38,14 +37,14 @@ https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0013/HLS/
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://www.gmm25.com/asset/img/gmm25-logo.png",ช่อง GMM25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn6.goprimetime.info/feed/202306140918/chgmm/index.m3u8
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0019/DASH/B0019.mpd?
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",ช่อง ONE 31
 https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240",ช่อง TRUE4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn6.goprimetime.info/feed/202306140918/chtrue4u/index.m3u8
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0054/DASH/B0054.mpd?
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://positioningmag.com/wp-content/uploads/importedmedia/blogmedia-60714.png",ช่อง CH8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
@@ -55,15 +54,15 @@ https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="http://www.myband.co.th/uploads/20181012/ca61e306ebcd1fa2c4160350d9642e17.jpeg",ช่อง Workpoint TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn6.goprimetime.info/feed/202306140918/chworkpoint/index.m3u8
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0015/DASH/V0015.mpd?
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://dl.dropbox.com/s/byqurs38hszlfi8/jkn.png?dl=0",ช่อง JKN18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn6.goprimetime.info/feed/202306140918/newtv/index.m3u8
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0010/DASH/V0010.mpd?
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/14/68c64410-c5e8-11ea-8513-fb8d321e2c29_original.png",ช่อง TPTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/TPTV/index.m3u8
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0048/DASH/V0048.mpd?
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA_400x400.png",ช่อง Cable 37 HD
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
@@ -72,15 +71,14 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://i.imgur.com/hD3wGq3.png",ช่อง TNN16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn6.goprimetime.info/feed/202306140918/chtnn/index.m3u8
+https://ctrl.laotv.la/live/TNN24/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tnn2.jpg",ช่อง TNN 2
 https://ctrl.laotv.la/live/TNN2/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://static.thaicom.io/chbig/big_14_20211217071952.png",ช่อง Nation TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn6.goprimetime.info/feed/202306140918/chnation/index.m3u8
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0021/DASH/V0021.mpd?
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://news1live.com/images/social-share-logo.png",ช่อง NEWS1 HD
 http://news1.live14.com/stream/news1_hi.m3u8
@@ -191,23 +189,23 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://sv1.picz.in.th/images/2021/08/24/2Fl8Hz.png",ช่อง MOVIES WORLD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2zbTvlruhZwt9jSGWgCInf_oCdw7W0uAhqdge06Rvb0kCM7LSGj2radVHK1qPb1hCZSg59thvI6icWET99Q9SIyA1MedELjhekn8MU9PL1X-32wIphAnjRvAQSJ08tclzV6TN5uDgDpcipxBU85B7QnzxD_Y5KBzZypwL-HIASinCSzaBkeRasVRquA/s1600/000002.png",ช่อง MOVIES WORLD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC53/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/440px-7flix_logo_2020.svg.png",ช่อง 7Flix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC5/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-s.png",ช่อง BOX FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600003437566/fv1orlGpwB8BpwqZtZGcSM1GbjNgIbM6eIvnq4UrVfRoq6wcZUMHAfr2PX0ZjMdKIfg-=s300?v=1",ช่อง Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
@@ -245,6 +243,9 @@ https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/phetchabuntv/phetchabuntv.png",ช่อง PTV
 https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 
+#EXTINF:-1 group-title="THAI TV" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png",ช่อง Chiangrai Channel
+https://live.thaitvstream.com/play/chiangrai/index.m3u8
+
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbnwnk3YeyNG1Fs2dM40DJdMuauXorSZuWzT-O9f3Lm3sHR4WNtNZZxV_HGVvIvlu2KZk&usqp=CAU",ช่อง MAYA TV
 http://183.89.246.119:8881/play/a0ad/index.m3u8
 
@@ -260,7 +261,7 @@ https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",ช่อง Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chboomberang/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
 
 #EXTINF:-1 group-title="THAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/th/1/14/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%8A%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5.jpg",ช่อง Cartoon Club
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
@@ -280,11 +281,10 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0178/HLS/V
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F03%2F15%2F58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png&w=320&h=240",ช่อง TRUE4U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn6.goprimetime.info/feed/202306140918/chtrue4u/index.m3u8
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0054/DASH/B0054.mpd?
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://i.imgur.com/hD3wGq3.png",ช่อง TNN16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn6.goprimetime.info/feed/202306140918/chtnn/index.m3u8
+https://ctrl.laotv.la/live/TNN24/index.m3u8
 
 #EXTINF:-1 group-title="TRUE VISIONS" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tnn2.jpg",ช่อง TNN 2
 https://ctrl.laotv.la/live/TNN2/index.m3u8
@@ -454,19 +454,19 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V1002/HLS/V
 
 #EXTINF:-1 group-title="3BB GIGA TV" tvg-logo="https://i.imgur.com/hnfiUbK.png",ช่อง T Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chtsport/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8
 
 #EXTINF:-1 group-title="GOOD TV" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185932sweet.png",ช่อง Sweet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC58/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC58/index.m3u8
 
 #EXTINF:-1 group-title="GOOD TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSR5MAO5_qmfR0KjAEXSYUIPi4Oj_i6R5syg&usqp=CAU",ช่อง สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC8/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
 
 #EXTINF:-1 group-title="GOOD TV" tvg-logo="https://www.butterfire.com/wp-content/uploads/MySci.jpg",ช่อง MySci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC37/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/index.m3u8
 
 #EXTINF:-1 group-title="MVTV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/30_x_rUVn5fCZe3aEAoLymjbKqtJHkzi9ORXv.png",ช่อง MV TV CHANNEL
 https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
@@ -2410,7 +2410,7 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226673/1.m3u8
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p2.itc.cn/images01/20211102/bcf58d0f87f84654b0ac17ac7aabb06c.jpeg",ช่อง 湖南卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226698/1.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://img.sj33.cn/uploads/allimg/201402/7-140225103512Y4.png",ช่อง 浙江卫视
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://file.psd.cn/20211216A/2lgbx4o5ehq_PSD_cn.png",ช่อง 浙江卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226690/1.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",ช่อง 江苏卫视
@@ -2422,7 +2422,7 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226719/1.m3u8
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://bpic.51yuansu.com/pic3/cover/02/90/46/5aba18558dec2_610.jpg",ช่อง 东方卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226734/1.m3u8
 
-#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://img.sj33.cn/uploads/allimg/201402/7-14022514114J51.png",ช่อง 深圳卫视
+#EXTINF:-1 group-title="CHINA TV" tvg-logo="https://images.sj33.cn/uploads/allimg/201402/7-14022514114J51.png",ช่อง 深圳卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226688/1.m3u8
 
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png",ช่อง 安徽卫视
@@ -2512,7 +2512,7 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&s
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNN_Indonesia.png/768px-CNN_Indonesia.png",ช่อง CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
-#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png",ช่อง CNBC INDONESIA
+#EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://play-lh.googleusercontent.com/OKHS6EcJx8XhrQZ1leZxAH9fbGX6ug_fRyHI4bT5v0W1eo6Or2FudDaDruI_-cCsaFE",ช่อง CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="INDONESIA TV" tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png",ช่อง TRANS TV
@@ -2765,7 +2765,7 @@ http://mytv-extra.com/D85A79B4/55A7743D/380118
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1816px-MTV_90s_2022.svg.png",ช่อง MTV 90s
 http://mytv-extra.com/D85A79B4/55A7743D/380115
 
-#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tlc_logo_discovery.svg/1200px-Tlc_logo_discovery.svg.png",ช่อง TLC
+#EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2560px-TLC_Logo.svg.png",ช่อง TLC
 http://mytv-extra.com/D85A79B4/55A7743D/380109
 
 #EXTINF:-1 group-title="PHILIPPINES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png",ช่อง tvN
@@ -3164,12 +3164,11 @@ https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/hmongusatv.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="NEWS CHANNEL" tvg-logo="https://i.imgur.com/hD3wGq3.png",ช่อง TNN16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn6.goprimetime.info/feed/202306140918/chtnn/index.m3u8
+https://ctrl.laotv.la/live/TNN24/index.m3u8
 
 #EXTINF:-1 group-title="NEWS CHANNEL" tvg-logo="https://static.thaicom.io/chbig/big_14_20211217071952.png",ช่อง Nation TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://cdn6.goprimetime.info/feed/202306140918/chnation/index.m3u8
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0021/DASH/V0021.mpd?
 
 #EXTINF:-1 group-title="NEWS CHANNEL" tvg-logo="https://news1live.com/images/social-share-logo.png",ช่อง NEWS1 HD
 http://news1.live14.com/stream/news1_hi.m3u8
@@ -3259,30 +3258,30 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="LEARNING CHANNEL" tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png",ช่อง English club
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC21/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC21/index.m3u8
 
 #EXTINF:-1 group-title="LEARNING CHANNEL" tvg-logo="https://image.roku.com/developer_channels/prod/110b229663a135a0abf87413c41f22f1f12c8cef7c1fc752e4fb572d71476693.png",ช่อง STIRR The Bob Ross Channel
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://sv1.picz.in.th/images/2021/08/24/2Fl8Hz.png",ช่อง MOVIES WORLD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2zbTvlruhZwt9jSGWgCInf_oCdw7W0uAhqdge06Rvb0kCM7LSGj2radVHK1qPb1hCZSg59thvI6icWET99Q9SIyA1MedELjhekn8MU9PL1X-32wIphAnjRvAQSJ08tclzV6TN5uDgDpcipxBU85B7QnzxD_Y5KBzZypwL-HIASinCSzaBkeRasVRquA/s1600/000002.png",ช่อง MOVIES WORLD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC53/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpGaTwWMerK4GrwU_kgGjG80cAZNjuWxBBH9ulujecnNKEXj7gZ4_GbzPhdKW7QDAYC7L03pkllmKM52LsKHJCRJcX9EMhYLDrZ862W4aVxKQg7ON_DjM_qlr3pXpmY1OpaTsYFoUswLx9HcjsoPzSFBvY61p0sufZP5phjsRk9oyITBDbO1IFa4AVFA/s1600/0000003.png",ช่อง MOVIES WORLD 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/440px-7flix_logo_2020.svg.png",ช่อง 7Flix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC5/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://f.ptcdn.info/717/071/000/qk9u3jer8FLhWtXPivL-s.png",ช่อง BOX FILM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC52/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600003437566/fv1orlGpwB8BpwqZtZGcSM1GbjNgIbM6eIvnq4UrVfRoq6wcZUMHAfr2PX0ZjMdKIfg-=s300?v=1",ช่อง Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
@@ -3346,7 +3345,7 @@ https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgcpP04aobA1-rx4KLim2vj_cPET1M02mxig&usqp=CAU",ช่อง Action Hollywood Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC26/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC26/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES & SERIES CHANNEL" tvg-logo="https://gvupload.zype.com/53c0457a69702d4d66040000/zobject_image/54c923da69702d070c177700/1422468057/original.png?1422468057",ช่อง Shout! Factory TV
 https://shoutfactory-xumo.amagi.tv/playlist.m3u8
@@ -3435,7 +3434,7 @@ https://symc-cdn.violin.co.th/madoit/timetv/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/35/Xing_Kong_2D.png/revision/latest/scale-to-width-down/1902?cb=20220207040228&path-prefix=vi",ช่อง XING KONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC13/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC13/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT CHANNEL" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQQVpl3gWcBPD8nN7bq6HMdA92PfRq4DXoVR3DCHQ=s900-c-k-c0x00ffffff-no-rj",ช่อง The Young Turks
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
@@ -3463,7 +3462,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98
 
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113185932sweet.png",ช่อง Sweet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC58/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC58/index.m3u8
 
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://i.ytimg.com/vi/kXpqaPiMAcc/maxresdefault_live.jpg",ช่อง ลูกทุ่ง TVHD
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist_Fuso_121120.m3u8
@@ -3473,7 +3472,7 @@ https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/6348447.546c15d0864b1.jpg",ช่อง Channel V Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC14/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC14/index.m3u8
 
 #EXTINF:-1 group-title="MUSIC CHANNEL" tvg-logo="https://play-lh.googleusercontent.com/gsxoqM9rpJ_AIRNkF5ij09BALQu1lpkt_O94gbFy87bVqSrENchVf5BE9HxFQDL2ReAc",ช่อง VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
@@ -3655,7 +3654,7 @@ https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8
 #EXTINF:-1 group-title="FOOD CHANNEL" tvg-logo="https://www.glewed.tv/wp-content/uploads/2021/03/TheChefRocShowPoster-300x450.jpg",ช่อง Chef Roc Show
 https://rpn1.bozztv.com/36bay2/gusa-chefrock/mono.m3u8
 
-#EXTINF:-1 group-title="FOOD CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3SiRr8fU5uDfNu-rGR8uC4NH81cw6fBrZlg&usqp=CAU",ช่อง HUNGRY
+#EXTINF:-1 group-title="FOOD CHANNEL" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ef15be0ddbf393489faa41b/1592957362496-TLELSLDWHHSV9RHHTS3O/Hungry-logo-PS-01.png",ช่อง HUNGRY
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
 
 #EXTINF:-1 group-title="FOOD CHANNEL" tvg-logo="http://www.glewed.tv/wp-content/uploads/2020/03/MadDogMerrillMidwestGrillnHero.jpg",ช่อง Mad Dog and Merrill
@@ -3666,7 +3665,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de1
 
 #EXTINF:-1 group-title="KIDS CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png",ช่อง Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chboomberang/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
 
 #EXTINF:-1 group-title="KIDS CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/th/1/14/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%8A%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5.jpg",ช่อง Cartoon Club
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
@@ -3691,11 +3690,11 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSR5MAO5_qmfR0KjAEXSYUIPi4Oj_i6R5syg&usqp=CAU",ช่อง สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC8/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY CHANNEL" tvg-logo="https://www.butterfire.com/wp-content/uploads/MySci.jpg",ช่อง MySci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/LC37/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/index.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png",ช่อง Discovery Channels
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
@@ -3720,7 +3719,7 @@ https://realstories-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/hnfiUbK.png",ช่อง T Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/202306140918/chtsport/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://2.bp.blogspot.com/-0wlOLgIzZWU/W2vkaoVLICI/AAAAAAAAqyA/7kqKVQMbsFQ8SOg--yrVdrmeMr4uVEW2ACLcBGAs/s1600/plugin-addon-redbulltv.png",ช่อง Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
