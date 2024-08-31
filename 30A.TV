@@ -28,6 +28,16 @@
 
 {"name":"30A The Beach Show",image:"https://images-na.ssl-images-amazon.com/images/I/61-swLBlY2L.png","url": "http://player.teleon.tv/us/channel/30atv-the-beach-show"},
 
+  {
+"name": " TrueFilm HD2",
+"image": "https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png",
+"url": "https://gdplayer.to/embed/truefilmhd2",
+"userAgent": "ExoPlayerLib/2.15.1",
+        "info":"27/เม.ย/24",
+        "embed":"true",
+        "referer":"",
+        "online":"true"
+        },
 
 
 
